@@ -18,4 +18,4 @@ Data Visualization
 <img width="952" height="464" alt="Screenshot 2026-05-13 221619" src="https://github.com/user-attachments/assets/0ce72416-c8fc-41d6-a60e-9face3b3c1c5" />
 <img width="818" height="434" alt="Screenshot 2026-05-13 221501" src="https://github.com/user-attachments/assets/4accc7a1-a2bd-45ce-962a-9a5f51a45505" />
 <img width="909" height="422" alt="Screenshot 2026-05-13 221739" src="https://github.com/user-attachments/assets/43b50511-3df6-4562-b262-19219f55273e" />
-
+<img width="813" height="434" alt="Screenshot 2026-05-13 224425" src="https://github.com/user-attachments/assets/7b510735-2ce2-414b-aa5c-0faea903c711" />
