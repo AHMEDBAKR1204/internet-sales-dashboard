@@ -4,17 +4,17 @@ Project Overview
 
 This project analyzes internet sales performance using Excel dashboards and interactive visualizations.
 
-Key Insights
-Revenue reached $69M
-Profit margin exceeded 40%
-Weekdays generated over 70% of total sales
-London and Paris were top-performing cities
+Key Insights :
+-Revenue reached $69M
+-Profit margin exceeded 40%
+-Weekdays generated over 70% of total sales
+-London and Paris were top-performing cities
 
-Tools Used
-Microsoft Excel
-Pivot Tables
-Charts
-Data Visualization
+Tools Used :
+-Microsoft Excel
+-Pivot Tables
+-Charts
+-Data Visualization
 
 <img width="818" height="434" alt="Screenshot 2026-05-13 221501" src="https://github.com/user-attachments/assets/8befac47-927a-48ad-86b0-06fdc74b232d" />
 <img width="813" height="434" alt="Screenshot 2026-05-13 224425" src="https://github.com/user-attachments/assets/703084b4-4b34-40d0-b9eb-6bab4e1b5ea8" />
