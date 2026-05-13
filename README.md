@@ -9,6 +9,7 @@ Revenue reached $69M
 Profit margin exceeded 40%
 Weekdays generated over 70% of total sales
 London and Paris were top-performing cities
+
 Tools Used
 Microsoft Excel
 Pivot Tables
